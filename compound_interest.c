@@ -13,7 +13,7 @@ scanf("%f",&Time);
 printf("enter Rate in interest:,\n");
 scanf("%f",&Rate);
 
-//calculating simple interest 
+//calculating compound interest 
 compound_interest=principle*((1+Rate/100)*Time);
 
 //display results 
